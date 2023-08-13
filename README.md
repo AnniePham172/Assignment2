@@ -1,5 +1,5 @@
 GROUP 6 - MEMBERS NAME
-1. Kenneth Gibli
+1. Kenneth Giblin
 2. Ngoc Anh Pham
 3. Yan Di Choong
 
